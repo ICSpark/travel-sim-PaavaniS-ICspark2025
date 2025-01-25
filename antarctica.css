@@ -1,0 +1,14 @@
+#container {
+    position: fixed;
+
+}
+.portals {
+    height: 150px;
+    margin: 30px;
+    
+}
+body {
+    background-image: url("assets/antarctica.jpeg");
+    background-size: cover;
+    
+  }

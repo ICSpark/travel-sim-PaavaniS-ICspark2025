@@ -1,0 +1,16 @@
+#container {
+    position: fixed;
+
+}
+.portals {
+    height: 200px;
+    margin: 30px;
+}
+body {
+    background-image: url("assets/tokyo.jpeg");
+    background-size: cover;
+    
+  }
+ #header {
+  color: white;
+ }
